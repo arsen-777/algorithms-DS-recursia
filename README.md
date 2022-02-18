@@ -67,7 +67,22 @@ and return the result.</summary>
 [Solution](./js/7.calculateSum.js)
 
 </details>
+<details>
+    <summary>8.Implement merge sort.</summary>
+    <br>
+    Task:8
+          
+[Solution](./js/fakeMergeSort.js)
 
+</details>
+<details>
+    <summary>9.Is Palindrome.</summary>
+    <br>
+    Task:9 Use recursive function
+          
+[Solution](./js/isPalindrome.js)
+
+</details>
 ## Author
 
 **Arsen Grigoryan**
